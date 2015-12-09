@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Picks!</string>
+    <string name="expert_picks">"Expert Picks!"</string>
+    <string name="week_18">Wild Card Playoffs</string>
+    <string name="week_19">Divisional Playoffs</string>
+    <string name="week_20">Conference Championships</string>
+    <string name="week_21">Super Bowl</string>
+    <string-array name="nflweek_array">
+        <item>Select Week&#8230;</item>
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 4</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 7</item>
+        <item>Week 8</item>
+        <item>Week 9</item>
+        <item>Week 10</item>
+        <item>Week 11</item>
+        <item>Week 12</item>
+        <item>Week 13</item>
+        <item>Week 14</item>
+        <item>Week 15</item>
+        <item>Week 16</item>
+        <item>Week 17</item>
+        <item>@string/week_18</item>
+        <item>@string/week_19</item>
+        <item>@string/week_20</item>
+        <item>@string/week_21</item>
+    </string-array>
+
+</resources>
